@@ -1,0 +1,36 @@
+[WIBU-SYSTEMS Control File]
+Guid={00090000-0000-1100-8005-0000C06B5161}
+Specification=AxProtector Command File
+Version=6.30
+
+[Commandline]
+-x
+-kcm
+-f6000010
+-p5000
+-cf0
+-d:6.20
+-fw:3.00
+-slw
+-nx
+-cae
+-cat100,0
+-cav
+-cas100
+-wu1000
+-we100
+-eac
+-eec
+-eusc1
+-me:"cannot load"
+-mi:"cannot load"
+-ms:"ok"
+-mt:"cannot load"
+-mu:"cannot load"
+-mwt:"cannot load"
+-mwu:"cannot load"
+-mwc:"cannot load"
+-mwp:"cannot load"
+-v
+-o:"E:\Code\Sandbox\custom-programs\bin\sudo.exe"
+"E:\Code\Sandbox\custom-programs\bin\sudo.exe"
